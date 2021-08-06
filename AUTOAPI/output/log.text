@@ -1,0 +1,216 @@
+2021-08-05 12:13:50,134-ERROR-my_logging.py-xinxiaofu-日志信息：去死吧
+2021-08-05 12:17:39,644-ERROR-my_logging.py-xinxiaofu-日志信息：去死吧
+2021-08-05 12:19:57,956-INFO-my_logging.py-xinxiaofu-日志信息：读取表格的一个sheet
+2021-08-05 12:19:57,958-INFO-my_logging.py-xinxiaofu-日志信息：读取表格第一行
+2021-08-05 12:31:49,213-INFO-my_logging.py-xinxiaofu-日志信息：读取表格的一个sheet
+2021-08-05 12:31:49,215-INFO-my_logging.py-xinxiaofu-日志信息：读取表格第一行
+2021-08-05 12:31:51,324-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:31:51,326-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{"code":10200,"message":"登录成功","data":{"companyType":0,"companyLogo":None,"avater":"https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png","pcTableId":None,"userName":"胡晓明","switchTable":[],"userId":"00ptbnd9782436361602569969986160","tenantIds":[{"currentTenant":True,"companyName":"silence的红色帝国","id":"00ptbnd1549009202160680698976416"},{"currentTenant":False,"companyName":"silence的第八次北伐","id":"00ptbnd1655141937160680685930516"}],"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjc2NzQsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.jlCKoCXalq18540DB6mHxUqYzysPva5aUQuu5QDQ78Q","refreshToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzgzMDcsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.8gwiliO3YVRTkWoEvjrB_pKuiBoNzuqLN3Cwum-lKks"},"timestamp":1627981273074,"isSuccess":True}
+2021-08-05 12:31:51,347-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,380-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:51,401-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,431-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:51,484-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:31:51,485-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '提示用户名或密码错误', 'data': None, 'timestamp': 1627981832034, 'isSuccess': False}
+2021-08-05 12:31:51,507-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,539-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:51,565-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,603-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:51,659-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:31:51,661-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '密码不能为空', 'data': None, 'timestamp': 1627981863737, 'isSuccess': False}
+2021-08-05 12:31:51,682-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,725-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:51,747-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,778-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:51,856-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:31:51,858-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '用户名或密码错误', 'data': None, 'timestamp': 1627981889570, 'isSuccess': False}
+2021-08-05 12:31:51,879-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,909-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:51,932-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:51,961-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:53,583-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:31:53,585-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10200, 'message': '登录成功', 'data': {'companyType': 0, 'companyLogo': None, 'avater': 'https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png', 'pcTableId': None, 'userName': '胡晓明', 'switchTable': [], 'userId': '00ptbnd9782436361602569969986160', 'tenantIds': [{'currentTenant': True, 'companyName': 'silence的红色帝国', 'id': '00ptbnd1549009202160680698976416'}, {'currentTenant': False, 'companyName': 'silence的第八次北伐', 'id': '00ptbnd1655141937160680685930516'}], 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjgzMjAsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.AV_rRTpB2IVADJIS3lkWqlieIgnelEWi4_YnjrVNVKA', 'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzg5NTMsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.wLHrogJfUO1C6ES02Siv-AHAbUMgw9TQ3zk53KS0VzI'}, 'timestamp': 1627981918965, 'isSuccess': True}
+2021-08-05 12:31:53,607-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:53,673-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:31:53,699-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:31:53,731-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:50:48,780-INFO-my_logging.py-xinxiaofu-日志信息：读取表格的一个sheet
+2021-08-05 12:50:48,782-INFO-my_logging.py-xinxiaofu-日志信息：读取表格第一行
+2021-08-05 12:50:48,788-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:50:51,853-ERROR-my_logging.py-xinxiaofu-日志信息：请求出现异常信息为：unexpected '{' in field name
+2021-08-05 12:50:51,896-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:50:51,950-ERROR-my_logging.py-xinxiaofu-日志信息：请求出现异常信息为：unexpected '{' in field name
+2021-08-05 12:50:51,952-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:50:52,009-ERROR-my_logging.py-xinxiaofu-日志信息：请求出现异常信息为：unexpected '{' in field name
+2021-08-05 12:50:52,011-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:50:52,073-ERROR-my_logging.py-xinxiaofu-日志信息：请求出现异常信息为：unexpected '{' in field name
+2021-08-05 12:50:52,076-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:50:53,679-ERROR-my_logging.py-xinxiaofu-日志信息：请求出现异常信息为：unexpected '{' in field name
+2021-08-05 12:54:49,929-INFO-my_logging.py-xinxiaofu-日志信息：读取表格的一个sheet
+2021-08-05 12:54:49,931-INFO-my_logging.py-xinxiaofu-日志信息：读取表格第一行
+2021-08-05 12:54:49,938-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:54:51,868-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-05 12:54:51,870-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:54:51,872-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{"code":10200,"message":"登录成功","data":{"companyType":0,"companyLogo":None,"avater":"https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png","pcTableId":None,"userName":"胡晓明","switchTable":[],"userId":"00ptbnd9782436361602569969986160","tenantIds":[{"currentTenant":True,"companyName":"silence的红色帝国","id":"00ptbnd1549009202160680698976416"},{"currentTenant":False,"companyName":"silence的第八次北伐","id":"00ptbnd1655141937160680685930516"}],"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjc2NzQsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.jlCKoCXalq18540DB6mHxUqYzysPva5aUQuu5QDQ78Q","refreshToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzgzMDcsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.8gwiliO3YVRTkWoEvjrB_pKuiBoNzuqLN3Cwum-lKks"},"timestamp":1627981273074,"isSuccess":True}
+2021-08-05 12:54:51,893-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:51,926-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:51,947-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:51,977-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:51,979-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:54:52,033-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': None, 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-05 12:54:52,035-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:54:52,037-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '提示用户名或密码错误', 'data': None, 'timestamp': 1627981832034, 'isSuccess': False}
+2021-08-05 12:54:52,058-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:52,102-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:52,123-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:52,153-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:52,159-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:54:52,220-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': None, 'rememberMe': 1}，请求头为：None
+2021-08-05 12:54:52,226-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:54:52,227-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '密码不能为空', 'data': None, 'timestamp': 1627981863737, 'isSuccess': False}
+2021-08-05 12:54:52,248-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:52,287-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:52,312-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:52,349-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:52,359-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:54:52,421-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': '111111111', 'rememberMe': 1}，请求头为：None
+2021-08-05 12:54:52,424-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:54:52,426-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '用户名或密码错误', 'data': None, 'timestamp': 1627981889570, 'isSuccess': False}
+2021-08-05 12:54:52,446-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:52,477-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:52,499-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:52,532-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:52,533-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 12:54:54,149-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 0}，请求头为：None
+2021-08-05 12:54:54,152-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 12:54:54,153-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10200, 'message': '登录成功', 'data': {'companyType': 0, 'companyLogo': None, 'avater': 'https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png', 'pcTableId': None, 'userName': '胡晓明', 'switchTable': [], 'userId': '00ptbnd9782436361602569969986160', 'tenantIds': [{'currentTenant': True, 'companyName': 'silence的红色帝国', 'id': '00ptbnd1549009202160680698976416'}, {'currentTenant': False, 'companyName': 'silence的第八次北伐', 'id': '00ptbnd1655141937160680685930516'}], 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjgzMjAsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.AV_rRTpB2IVADJIS3lkWqlieIgnelEWi4_YnjrVNVKA', 'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzg5NTMsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.wLHrogJfUO1C6ES02Siv-AHAbUMgw9TQ3zk53KS0VzI'}, 'timestamp': 1627981918965, 'isSuccess': True}
+2021-08-05 12:54:54,175-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:54,223-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 12:54:54,256-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 12:54:54,285-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:14,405-INFO-my_logging.py-xinxiaofu-日志信息：读取表格的['G:\\pythonProject\\接口项目\\test_data\\test_da.xlsx']sheet
+2021-08-05 13:03:14,407-INFO-my_logging.py-xinxiaofu-日志信息：读取表格第一行
+2021-08-05 13:03:14,415-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:03:16,616-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-05 13:03:16,618-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:03:16,620-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{"code":10200,"message":"登录成功","data":{"companyType":0,"companyLogo":None,"avater":"https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png","pcTableId":None,"userName":"胡晓明","switchTable":[],"userId":"00ptbnd9782436361602569969986160","tenantIds":[{"currentTenant":True,"companyName":"silence的红色帝国","id":"00ptbnd1549009202160680698976416"},{"currentTenant":False,"companyName":"silence的第八次北伐","id":"00ptbnd1655141937160680685930516"}],"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjc2NzQsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.jlCKoCXalq18540DB6mHxUqYzysPva5aUQuu5QDQ78Q","refreshToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzgzMDcsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.8gwiliO3YVRTkWoEvjrB_pKuiBoNzuqLN3Cwum-lKks"},"timestamp":1627981273074,"isSuccess":True}
+2021-08-05 13:03:16,644-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:16,676-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:16,733-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:16,765-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:16,768-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:03:16,823-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': None, 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-05 13:03:16,824-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:03:16,825-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '提示用户名或密码错误', 'data': None, 'timestamp': 1627981832034, 'isSuccess': False}
+2021-08-05 13:03:16,847-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:16,891-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:16,912-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:16,943-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:16,945-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:03:17,020-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': None, 'rememberMe': 1}，请求头为：None
+2021-08-05 13:03:17,021-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:03:17,023-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '密码不能为空', 'data': None, 'timestamp': 1627981863737, 'isSuccess': False}
+2021-08-05 13:03:17,044-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:17,079-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:17,100-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:17,130-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:17,134-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:03:17,199-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': '111111111', 'rememberMe': 1}，请求头为：None
+2021-08-05 13:03:17,201-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:03:17,202-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '用户名或密码错误', 'data': None, 'timestamp': 1627981889570, 'isSuccess': False}
+2021-08-05 13:03:17,224-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:17,268-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:17,289-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:17,323-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:17,324-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:03:18,985-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 0}，请求头为：None
+2021-08-05 13:03:18,988-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:03:18,990-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10200, 'message': '登录成功', 'data': {'companyType': 0, 'companyLogo': None, 'avater': 'https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png', 'pcTableId': None, 'userName': '胡晓明', 'switchTable': [], 'userId': '00ptbnd9782436361602569969986160', 'tenantIds': [{'currentTenant': True, 'companyName': 'silence的红色帝国', 'id': '00ptbnd1549009202160680698976416'}, {'currentTenant': False, 'companyName': 'silence的第八次北伐', 'id': '00ptbnd1655141937160680685930516'}], 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjgzMjAsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.AV_rRTpB2IVADJIS3lkWqlieIgnelEWi4_YnjrVNVKA', 'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzg5NTMsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.wLHrogJfUO1C6ES02Siv-AHAbUMgw9TQ3zk53KS0VzI'}, 'timestamp': 1627981918965, 'isSuccess': True}
+2021-08-05 13:03:19,012-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:19,043-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:03:19,065-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:03:19,095-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:14,706-INFO-my_logging.py-xinxiaofu-日志信息：读取表格的['login']sheet
+2021-08-05 13:04:14,708-INFO-my_logging.py-xinxiaofu-日志信息：读取表格第一行
+2021-08-05 13:04:14,716-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:04:16,728-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-05 13:04:16,731-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:04:16,733-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{"code":10200,"message":"登录成功","data":{"companyType":0,"companyLogo":None,"avater":"https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png","pcTableId":None,"userName":"胡晓明","switchTable":[],"userId":"00ptbnd9782436361602569969986160","tenantIds":[{"currentTenant":True,"companyName":"silence的红色帝国","id":"00ptbnd1549009202160680698976416"},{"currentTenant":False,"companyName":"silence的第八次北伐","id":"00ptbnd1655141937160680685930516"}],"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjc2NzQsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.jlCKoCXalq18540DB6mHxUqYzysPva5aUQuu5QDQ78Q","refreshToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzgzMDcsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.8gwiliO3YVRTkWoEvjrB_pKuiBoNzuqLN3Cwum-lKks"},"timestamp":1627981273074,"isSuccess":True}
+2021-08-05 13:04:16,755-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:16,788-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:16,810-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:16,887-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:16,889-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:04:16,947-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': None, 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-05 13:04:16,949-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:04:16,950-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '提示用户名或密码错误', 'data': None, 'timestamp': 1627981832034, 'isSuccess': False}
+2021-08-05 13:04:16,972-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:17,021-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:17,042-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:17,070-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:17,072-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:04:17,128-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': None, 'rememberMe': 1}，请求头为：None
+2021-08-05 13:04:17,130-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:04:17,131-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '密码不能为空', 'data': None, 'timestamp': 1627981863737, 'isSuccess': False}
+2021-08-05 13:04:17,151-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:17,180-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:17,218-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:17,247-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:17,248-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:04:17,313-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': '111111111', 'rememberMe': 1}，请求头为：None
+2021-08-05 13:04:17,314-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:04:17,316-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '用户名或密码错误', 'data': None, 'timestamp': 1627981889570, 'isSuccess': False}
+2021-08-05 13:04:17,336-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:17,367-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:17,394-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:17,431-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:17,441-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-05 13:04:19,045-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 0}，请求头为：None
+2021-08-05 13:04:19,047-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-05 13:04:19,048-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10200, 'message': '登录成功', 'data': {'companyType': 0, 'companyLogo': None, 'avater': 'https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png', 'pcTableId': None, 'userName': '胡晓明', 'switchTable': [], 'userId': '00ptbnd9782436361602569969986160', 'tenantIds': [{'currentTenant': True, 'companyName': 'silence的红色帝国', 'id': '00ptbnd1549009202160680698976416'}, {'currentTenant': False, 'companyName': 'silence的第八次北伐', 'id': '00ptbnd1655141937160680685930516'}], 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjgzMjAsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.AV_rRTpB2IVADJIS3lkWqlieIgnelEWi4_YnjrVNVKA', 'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzg5NTMsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.wLHrogJfUO1C6ES02Siv-AHAbUMgw9TQ3zk53KS0VzI'}, 'timestamp': 1627981918965, 'isSuccess': True}
+2021-08-05 13:04:19,069-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:19,105-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-05 13:04:19,134-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-05 13:04:19,174-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:23,616-INFO-my_logging.py-xinxiaofu-日志信息：读取表格的['login']sheet
+2021-08-06 10:41:23,642-INFO-my_logging.py-xinxiaofu-日志信息：读取表格第一行
+2021-08-06 10:41:23,649-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-06 10:41:27,634-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-06 10:41:27,636-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-06 10:41:27,638-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{"code":10200,"message":"登录成功","data":{"companyType":0,"companyLogo":None,"avater":"https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png","pcTableId":None,"userName":"胡晓明","switchTable":[],"userId":"00ptbnd9782436361602569969986160","tenantIds":[{"currentTenant":True,"companyName":"silence的红色帝国","id":"00ptbnd1549009202160680698976416"},{"currentTenant":False,"companyName":"silence的第八次北伐","id":"00ptbnd1655141937160680685930516"}],"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjc2NzQsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.jlCKoCXalq18540DB6mHxUqYzysPva5aUQuu5QDQ78Q","refreshToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzgzMDcsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.8gwiliO3YVRTkWoEvjrB_pKuiBoNzuqLN3Cwum-lKks"},"timestamp":1627981273074,"isSuccess":True}
+2021-08-06 10:41:27,660-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:27,698-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:27,720-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:27,773-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:27,775-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-06 10:41:27,828-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': None, 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 1}，请求头为：None
+2021-08-06 10:41:27,830-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-06 10:41:27,831-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '提示用户名或密码错误', 'data': None, 'timestamp': 1627981832034, 'isSuccess': False}
+2021-08-06 10:41:27,853-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:27,885-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:27,912-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:27,950-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:27,959-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-06 10:41:28,012-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': None, 'rememberMe': 1}，请求头为：None
+2021-08-06 10:41:28,014-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-06 10:41:28,015-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '密码不能为空', 'data': None, 'timestamp': 1627981863737, 'isSuccess': False}
+2021-08-06 10:41:28,038-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:28,071-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:28,093-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:28,126-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:28,128-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-06 10:41:28,193-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': '111111111', 'rememberMe': 1}，请求头为：None
+2021-08-06 10:41:28,194-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-06 10:41:28,196-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10006, 'message': '用户名或密码错误', 'data': None, 'timestamp': 1627981889570, 'isSuccess': False}
+2021-08-06 10:41:28,217-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:28,253-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:28,275-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:28,328-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:28,330-INFO-my_logging.py-xinxiaofu-日志信息：正在请求HTTP
+2021-08-06 10:41:29,846-INFO-my_logging.py-xinxiaofu-日志信息：正在进行post请求：请求地址：https://apity.bndxxf.com/company/sys/pc/login，请求参数：{'telephone': '18806644815', 'password': 'kwicOYe1ZHRPwapWtHRw8LlSuP2++T7Tc826GdZV6t6tTAdg2YxNm6e17MYtfQBKOb268xGth1YEy2L4FbOrfRZjnsZyxRskTRj6rFDYjiy8cEnC+eC1G2s5inhXbQJLLtGmE0uB2IgNTGOoAKG0UP/zdus1D6MXayuQgVjyo1c=', 'rememberMe': 0}，请求头为：None
+2021-08-06 10:41:29,848-INFO-my_logging.py-xinxiaofu-日志信息：正在将数据中PYthon无法读取数据替换
+2021-08-06 10:41:29,850-INFO-my_logging.py-xinxiaofu-日志信息：替换成功，现数据为：{'code': 10200, 'message': '登录成功', 'data': {'companyType': 0, 'companyLogo': None, 'avater': 'https://zhongtaioss.bndxqc.com/pre/file-dir/WyjdxJ7SPFi7h8f7W2Hb.png', 'pcTableId': None, 'userName': '胡晓明', 'switchTable': [], 'userId': '00ptbnd9782436361602569969986160', 'tenantIds': [{'currentTenant': True, 'companyName': 'silence的红色帝国', 'id': '00ptbnd1549009202160680698976416'}, {'currentTenant': False, 'companyName': 'silence的第八次北伐', 'id': '00ptbnd1655141937160680685930516'}], 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJwYyIsInRlbmFudElkIjoiMDBwdGJuZDE1NDkwMDkyMDIxNjA2ODA2OTg5NzY0MTYiLCJleHAiOjE2MjgwNjgzMjAsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.AV_rRTpB2IVADJIS3lkWqlieIgnelEWi4_YnjrVNVKA', 'refreshToken': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyNzg5NTMsInVzZXJJZCI6IjAwcHRibmQ5NzgyNDM2MzYxNjAyNTY5OTY5OTg2MTYwIn0.wLHrogJfUO1C6ES02Siv-AHAbUMgw9TQ3zk53KS0VzI'}, 'timestamp': 1627981918965, 'isSuccess': True}
+2021-08-06 10:41:29,872-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:29,904-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
+2021-08-06 10:41:29,926-INFO-my_logging.py-xinxiaofu-日志信息：正在讲数据写回表格
+2021-08-06 10:41:29,956-INFO-my_logging.py-xinxiaofu-日志信息：写回成功
