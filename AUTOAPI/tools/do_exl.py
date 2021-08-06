@@ -1,7 +1,7 @@
 from openpyxl import load_workbook
 
-from 接口项目.tools.my_logging import LOG
-from 接口项目.tools.get_filepath import GetFilePath
+from AUTOAPI.tools.my_logging import LOG
+from AUTOAPI.tools.get_filepath import GetFilePath
 
 
 class DOEXL:

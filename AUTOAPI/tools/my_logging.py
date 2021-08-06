@@ -17,7 +17,7 @@ class LOG:
         # 设置log输出格式
         formatter = logging.Formatter('%(asctime)s-%(levelname)s-%(filename)s-%(name)s-日志信息：%(message)s')
         # 定义一个文本输出渠道
-        log_out = logging.FileHandler(r"G:\pythonProject\接口项目\output\log.text", encoding="utf-8")
+        log_out = logging.FileHandler(r"G:\pythonProject\AUTOAPI\output\log.text", encoding="utf-8")
         # 将格式加载到输出文本中
         log_out.setFormatter(formatter)
         # 设置log输出级别

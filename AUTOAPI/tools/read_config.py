@@ -1,6 +1,6 @@
 import configparser
 
-from 接口项目.tools.get_filepath import GetFilePath
+from AUTOAPI.tools.get_filepath import GetFilePath
 
 
 class ReadConfig:

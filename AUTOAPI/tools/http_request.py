@@ -1,7 +1,7 @@
 # 将不同的请求整合成一种请求
 import requests
 
-from 接口项目.tools.my_logging import LOG
+from AUTOAPI.tools.my_logging import LOG
 
 
 class Http_request:

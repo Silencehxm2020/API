@@ -1,10 +1,10 @@
 import unittest
 import ddt
-from 接口项目.run import RunTestcase
-from 接口项目.test_data.before_testdta import Beforedata
-from 接口项目.tools.do_exl import DOEXL
-from 接口项目.tools.get_filepath import GetFilePath
-from 接口项目.tools.http_request import Http_request
+from AUTOAPI.run import RunTestcase
+from AUTOAPI.test_data.before_testdta import Beforedata
+from AUTOAPI.tools.do_exl import DOEXL
+from AUTOAPI.tools.get_filepath import GetFilePath
+from AUTOAPI.tools.http_request import Http_request
 
 import json
 

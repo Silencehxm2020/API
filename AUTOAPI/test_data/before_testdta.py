@@ -1,5 +1,5 @@
-from 接口项目.tools.do_exl import DOEXL
-from 接口项目.tools.get_filepath import GetFilePath
+from AUTOAPI.tools.do_exl import DOEXL
+from AUTOAPI.tools.get_filepath import GetFilePath
 
 
 class Beforedata:
