@@ -1,5 +1,5 @@
-from AUTOAPI.tools.do_exl import DOEXL
-from AUTOAPI.tools.get_filepath import GetFilePath
+from tools.do_exl import DOEXL
+from tools.get_filepath import GetFilePath
 
 
 class Beforedata:

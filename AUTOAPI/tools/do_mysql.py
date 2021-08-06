@@ -1,6 +1,6 @@
 import pymysql
 
-from AUTOAPI.tools.my_logging import LOG
+from tools.my_logging import LOG
 
 
 class DoMysql:

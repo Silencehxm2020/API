@@ -1,10 +1,10 @@
 import unittest
 import ddt
-from AUTOAPI.run import RunTestcase
-from AUTOAPI.test_data.before_testdta import Beforedata
-from AUTOAPI.tools.do_exl import DOEXL
-from AUTOAPI.tools.get_filepath import GetFilePath
-from AUTOAPI.tools.http_request import Http_request
+from run import RunTestcase
+from test_data.before_testdta import Beforedata
+from tools.do_exl import DOEXL
+from tools.get_filepath import GetFilePath
+from tools.http_request import Http_request
 
 import json
 

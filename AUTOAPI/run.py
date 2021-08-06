@@ -2,10 +2,8 @@ from unittestreport import TestRunner
 import unittest
 
 
-from AUTOAPI.tools.do_exl import DOEXL
-from AUTOAPI.tools.get_filepath import GetFilePath
-from AUTOAPI.tools.http_request import Http_request
-from AUTOAPI.tools.read_config import ReadConfig
+
+from tools.read_config import ReadConfig
 class RunTestcase:
     baseurl = ReadConfig.base_url
     @staticmethod
